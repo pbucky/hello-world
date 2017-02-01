@@ -1,2 +1,3 @@
 # hello-world
-Hi, my name is - what - my name is - who - my name is - chikiki -  Jamie B
+Hi, my name is Jamie B.
+I like code. I like doing code. I like looking at code. I like code. Code is good.
